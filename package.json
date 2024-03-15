@@ -1,26 +1,49 @@
 {
-"name": "snowflakeal0212gorithm",
-"version": "1.0.0",
-"description": "The Snowflake Algorithm Package is a toolkit designed for generating unique identifiers. ",
-"main": "index.js",
-"scripts": {},
-"repository": {
-"type": "git",
-"url": "https://github.com/Dalil4/-SnowflakeAlgorithm.git"
-},
-"keywords": [
-"sample",
-"npm",
-"package"
-],
-"author": "Dalil4",
-"license": "MIT",
-"dependencies": {
-"lodash": "^4.17.21",
-"axios": "^0.21.1"
-},
-"peerDependencies": {
-"react": ">=16.8.0",
-"react-dom": ">=16.8.0"
-}
+  "name": "snowflakeal0212gorithm",
+  "version": "3.2.1",
+  "description": "The Snowflake Algorithm Package is a toolkit designed for generating unique identifiers.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dalil4/-SnowflakeAlgorithm.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "tea",
+    "beverage",
+    "drink",
+    "cup",
+    "chai",
+    "oolong",
+    "matcha",
+    "black tea",
+    "green tea",
+    "herbal tea",
+    "white tea"
+  ],
+  "author": "Dalil4",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "tea1": "^1.0.0",
+    "tea2": "^2.0.0",
+    "tea3": "^3.0.0",
+    "tea4": "^4.0.0",
+    "tea5": "^5.0.0",
+    "tea6": "^6.0.0",
+    "tea7": "^7.0.0",
+    "tea8": "^8.0.0",
+    "tea9": "^9.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "tea10": ">=10.0.0",
+    "tea11": ">=11.0.0",
+    "tea12": ">=12.0.0"
+  }
 }
